@@ -14,6 +14,12 @@ Focusing on user experience and functionality, the application aims to simplify 
 ## Technical Details
 Developed using Figma.
 
+## App Demo on Figma
+https://github.com/mazenabid/Karda-Project/assets/87061766/de500720-1bc1-4fd8-862f-c1977d002569
+
+## Presentation on Behance (Demo available)
+https://www.behance.net/gallery/146373811/The-Karda-Project-Wallet-BusPass-Mobile-Application
+
 ## Conclusion
 The Karda Project is designed to be a one-stop solution for modern urban living, blending technology with daily convenience especially for students.
 
