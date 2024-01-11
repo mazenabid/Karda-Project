@@ -1,7 +1,7 @@
 # The Karda Project - Wallet & BusPass Mobile Application
 
 ## Introduction
-The Karda Project is a mobile application that revolutionizes the way users handle public transportation and financial transactions. It seamlessly integrates a digital wallet and a bus pass system.
+The Karda Project is a mobile application that revolutionizes the way users handle public transportation and financial transactions. It seamlessly integrates a digital wallet and a bus pass system prioritizing the University of Regina Students as well as the City's residents.
 
 ## Features
 - **Digital Wallet**: Secure and convenient management of financial transactions.
